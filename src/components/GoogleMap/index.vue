@@ -21,9 +21,9 @@ export default {
   name: "GoogleMap",
   data() {
     return {
-      center: { lat: 36.86321688104738, lng: 54.44964266816528 },
+      center: { lat: 12.345678900000000, lng: 12.345678900000000 },
       markers: [{
-          position: {lat: 36.86321688104738, lng: 54.44964266816528}
+          position: {lat: 12.345678900000000, lng: 12.345678900000000}
         }],
       places: [],
       currentPlace: null

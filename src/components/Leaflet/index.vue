@@ -33,11 +33,11 @@ export default {
 
       zoom:8,
       path: "/images/",
-      center: [36.86321, 54.44964],
+      center: [12.34567, 12.34567],
       url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
       attribution:
         '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
-      marker: latLng(36.86321, 54.44964)
+      marker: latLng(12.34567, 12.34567)
     };
   },
   methods: {

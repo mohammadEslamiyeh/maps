@@ -21,7 +21,7 @@ Icon.Default.mergeOptions({
 
 Vue.use(VueGoogleMaps, {
     load: {
-        key: "AIzaSyDpfS1oRGreGSBU5HHjMmQ3o5NLw7VdJ6I",
+        key: "*******************************************",
         libraries: "places" // necessary for places input
     }
 });
